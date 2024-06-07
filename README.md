@@ -1,2 +1,2 @@
 # InterncareerTerraform
-Assignments from Interncareer in Teraaform
+Assignments from Interncareer in Terraform
